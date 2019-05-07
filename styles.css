@@ -1,0 +1,135 @@
+body {
+    background-color: #fff;
+    font-family: 'ZCOOL XiaoWei', serif;
+    font-size: 20px;
+}
+
+.title {
+    text-align: center;
+}
+
+.our-name {
+
+    padding-bottom: 0px;
+}
+
+.our-name p {
+    text-align: center;
+}
+
+.our-name h1 {
+    text-align: center;
+
+}
+
+.our-name h3 {
+    text-align: center;
+
+}
+
+.doctor-links {}
+
+.main {
+    padding-bottom: 20px;
+}
+
+.about-us {
+    text-align: center;
+    padding: 20px 5px;
+
+}
+
+.phil {
+    text-align: center;
+    padding: 20px 5px;
+}
+
+.insurances {
+    text-align: center;
+    padding: 30px 5px; 
+    
+}
+
+
+.services  {
+    text-align: center;
+    padding: 50px 5px;
+
+}
+
+.services i {
+    font-size: 70px;
+    padding: 3px 20px 30px 5px;
+}
+
+.appointments {
+    text-align: center;
+    padding: 50px 5px;
+}
+
+.our-offices {
+    text-align: center;
+ 
+}
+
+.our-offices h2 {
+    padding: 30px 3px;
+}
+
+.mid-pic img {
+    border-radius: 15px;
+    padding: 5px;
+    width: 100%;
+    height: 240px;
+        
+}
+
+
+
+.foot {
+    text-align: center;
+    background-color: #212529;
+    color: aliceblue;
+    padding: 10px;
+}
+
+.staff {
+    text-align: center;
+    padding: 30px 55px 20px;
+}
+
+.staff img {
+    border-radius: 8px;
+    width: 100%;
+    height: 300px;
+    
+}
+
+/* Doctors pages */
+.doctor {
+    padding: 10px 70px 4px;
+}
+
+.doctor img {
+    height: 300px;
+    border-radius: 30px;
+    float: left;
+    padding: 10px 20px;
+}
+
+
+.treatment-list {
+  padding-left: 45px;
+}
+
+,condititons {
+    padding: 10px;
+    
+}
+.conditions img {
+    border-radius: 20px;
+    padding: 8px;
+    width: 80%;
+    height: 80%;
+}
+
