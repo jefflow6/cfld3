@@ -43,7 +43,8 @@ body {
 }
 
 .doctor-links {
-    padding: 20px 5px;
+    text-align: center;
+    padding: 5px  0px;
 
 }
 
@@ -52,7 +53,7 @@ body {
 }
 
 .doctor-links h5{
-    font-size: 25px;
+    font-size: 28px;
 }
 
 .main {
