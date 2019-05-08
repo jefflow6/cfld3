@@ -1,3 +1,5 @@
+
+/* reusable  */
 body {
     background-color: #fff;
     font-family: 'ZCOOL XiaoWei', serif;
@@ -18,6 +20,8 @@ body {
 .title {
     text-align: center;
 }
+
+/* index page */
 
 .our-name {
     padding-top: 20px;
@@ -124,13 +128,15 @@ body {
 }
 
 
-
+/* footer */
 .foot {
     text-align: center;
     background-color: #212529;
     color: aliceblue;
     padding: 30px;
 }
+
+/* ourstaff page */
 
 .staff {
     text-align: center;
@@ -161,14 +167,21 @@ body {
   padding-left: 45px;
 }
 
-,condititons {
-    padding: 10px;
+/* conditions page */
+
+.conditions h3 {
+    text-align: center;
+}
+
+.conditions {
+    text-align: center;
+    padding: 10px 20px;
     
 }
 .conditions img {
-    border-radius: 20px;
-    padding: 8px;
-    width: 80%;
-    height: 80%;
+    border-radius: 30px;
+    padding: 20px 8px 20px;
+    width: 70%;
+    height: 70%;
 }
 
