@@ -88,6 +88,8 @@ body {
 
 }
 
+
+
 .services i {
     font-size: 70px;
     padding: 3px 20px 30px 5px;
@@ -164,6 +166,7 @@ body {
 }
 
 
+
 .treatment-list {
   padding-left: 45px;
 }
@@ -185,4 +188,13 @@ body {
     width: 70%;
     height: 70%;
 }
+
+
+.ourservices img {
+    padding: 20px;
+    
+}
+
+
+
 
